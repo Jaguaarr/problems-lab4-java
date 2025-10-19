@@ -1,4 +1,4 @@
-package student;
+package problem5;
 
 public class Student extends Person {
     private String cne;
