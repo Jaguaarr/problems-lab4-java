@@ -1,7 +1,7 @@
 package problem5;
 
-import Instructor.Instructor;
-import Instructor.Subject;
+import problem5.Instructor.Instructor;
+import problem5.Instructor.Subject;
 
 public class Test {
 

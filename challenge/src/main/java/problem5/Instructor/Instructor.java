@@ -1,5 +1,5 @@
-package Instructor;
-
+package problem5.Instructor;
+import problem5.Person;
 public class Instructor extends Person {
     private String employeeNumber;
     private Subject subject;

@@ -1,6 +1,6 @@
-package Instructor;
+package problem5.Instructor;
 
-class Subject {
+public class Subject {
     private int id;
     private String code;
     private String title;
