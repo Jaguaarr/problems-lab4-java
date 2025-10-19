@@ -1,4 +1,4 @@
-package instructor;
+package Instructor;
 
 public class Instructor extends Person {
     private String employeeNumber;
@@ -56,3 +56,4 @@ public class Instructor extends Person {
 
 
 }
+
