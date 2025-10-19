@@ -1,3 +1,5 @@
+package Instructor;
+
 class Subject {
     private int id;
     private String code;
